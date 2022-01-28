@@ -5,3 +5,6 @@
 [+] pip install -r requirements.txt
 
 [+] python3 anonfiles.py
+
+
+NOTE: Downloads will be saved to the Downloads Folder
